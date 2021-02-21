@@ -1,3 +1,4 @@
 aws-sam-cli==1.18.2
 awscli==1.19.12
 flask-lambda-python36==0.1.0
+boto3==1.0.0
